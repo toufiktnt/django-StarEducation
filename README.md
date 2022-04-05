@@ -1,3 +1,1 @@
-"# django-stareducation" 
-"# djano-StarEducation" 
-"# educatio-django" 
+"# django-StarEducation" 
